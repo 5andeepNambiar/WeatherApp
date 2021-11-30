@@ -1,1 +1,5 @@
 # WeatherApp
+
+![Screenshot](Sample.jpg)
+
+
